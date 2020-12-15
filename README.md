@@ -1,6 +1,6 @@
 ### Hi there!! I am Abhijit 👋
 
-#### I am an undergrad student of CSE at the NIT Durgapur and a Machine Learning Enthusiast
+#### I am an undergrad student of CSE at NIT Durgapur and a Machine Learning Enthusiast
 
 ## My Interests are:
 
