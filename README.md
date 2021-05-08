@@ -18,3 +18,4 @@
 - Personal Mail: [Email](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=abhijitroy1998@gmail.com)
 - Writing Profile: [Tech Writing](https://medium.com/@myac.abhijit) 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abr-98&show_icons=true&theme=radical)
