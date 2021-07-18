@@ -8,7 +8,7 @@
 - Neural Networks
 - Machine Learning
 - Natural language processing
-- Computer Networking
+- Reinforcement Learning
 
 ## My details:
 
