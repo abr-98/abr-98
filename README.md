@@ -1,14 +1,6 @@
 ### Hi there!! I am Abhijit 👋
 
-#### I am a CSE grad from NIT Durgapur and a Machine Learning Enthusiast
-
-## My Interests are:
-
-- Computer Vision
-- Neural Networks
-- Machine Learning
-- Natural language processing
-- Reinforcement Learning
+#### I am a data engineer at siemens healthineers and a masters students at Liverpool JM university. 
 
 ## My details:
 
@@ -17,5 +9,3 @@
 - Website: [My Website](https://abhijitroy1998.wixsite.com/abhijitcv)
 - Personal Mail: [Email](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=abhijitroy1998@gmail.com)
 - Writing Profile: [Tech Writing](https://medium.com/@myac.abhijit) 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abr-98&show_icons=true&theme=radical)
